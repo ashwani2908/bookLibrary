@@ -26,6 +26,10 @@ This project is a simple **Book Library** that fetches book data from an API and
 6. Clicking on a book opens its details in a **new tab**.
 7. The user can switch between **list and grid view** using a toggle button.
 
+## Screenshot!
+![alt text](<Screenshot 2025-03-26 at 3.48.50 PM.png>)
+
+
 ## Installation
 1. Clone the repository:
    ```sh
